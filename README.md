@@ -37,7 +37,7 @@ Endpoint	Description
 /logs	Returns the latest 20 network logs in JSON
 /snmp	Fetches SNMP data (CPU, Memory, Bandwidth)
 /export	Exports logs as CSV
-⚡ Screenshots
+⚡ No Screenshots
 
 Network Monitoring Dashboard
 🛡️ Security & Authentication
